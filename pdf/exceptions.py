@@ -1,0 +1,2 @@
+class PdfError(TypeError):
+    pass
