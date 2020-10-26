@@ -1,2 +1,4 @@
 *.lucy
 pdf.egg-info/*
+build
+dist
