@@ -28,7 +28,7 @@ def readme():
 
 setup(
 	name='pdf',
-	version='2020.4.17',
+	version='2020.9.18.2',
 	license='MIT',
 	author='Idin',
 	author_email='py@idin.ca',

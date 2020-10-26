@@ -1,3 +1,3 @@
-from .PdfFile import PdfFile
-from .PdfFile import PdfFile as PDF
-from .PdfDirectory import PdfDirectory
+from .Pdf import Pdf
+from .Pdf import Pdf as PdfFile
+from .Pdf import Pdf as PDF
